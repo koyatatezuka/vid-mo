@@ -1,0 +1,23 @@
+{
+  "name": "vid-mo",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/koyatatezuka/vid-mo.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/koyatatezuka/vid-mo/issues"
+  },
+  "homepage": "https://github.com/koyatatezuka/vid-mo#readme",
+  "dependencies": {
+    "express": "^4.16.4",
+    "joi": "^14.0.4"
+  }
+}
